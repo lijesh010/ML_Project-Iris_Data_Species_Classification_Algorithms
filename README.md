@@ -1,5 +1,5 @@
-# Logistic Regression for Iris Flower Species Classification
-This repository contains a machine learning project that focuses on using logistic regression to classify iris flowers into three different species categories: Setosa, Versicolour, and Virginica. The project utilizes the popular Iris Flower dataset from sklearn.datasets to train a logistic regression model, evaluate its accuracy, and make predictions on new samples.
+# Iris Flower Species Classification
+This repository contains a Machine Learning project focused on classifying iris flower species using various classification algorithms. The project employs the popular scikit-learn library and explores Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Random Forest, and Naive Bayes algorithms to create predictive models for classifying iris flowers into three different species: Setosa, Versicolour, and Virginica.
 
 ## Problem Description
 The main objective of this project is to build a machine learning model that can accurately classify iris flowers into one of the three species based on four features: sepal length, sepal width, petal length, and petal width.
