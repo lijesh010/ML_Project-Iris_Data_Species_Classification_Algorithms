@@ -14,7 +14,7 @@ The project involves the following steps:
 
 2. Data Splitting: The dataset is divided into a training set and a test set. The training set is used to train the logistic regression model, while the test set is used to evaluate the model's performance.
 
-3. Model Training: A logistic regression model is trained using the features from the training dataset and their corresponding labels.
+3. Model Training: A classification ML model is trained using the features from the training dataset and their corresponding labels.
 
 4. Model Evaluation: The accuracy of the trained model is calculated using the test dataset. This accuracy gives an indication of how well the model can classify new, unseen samples.
 
